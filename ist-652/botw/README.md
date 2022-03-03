@@ -1,7 +1,7 @@
 # An Analysis of “The Legend of Zelda: Breath of the Wild” Compendium
 
 
-This is also referenced in BOTW Assignment
+This is also referenced in BOTW Assignment in the report
 
 This code collects semi-structured data from an API in a .JSON format and uses it for analysis
 
