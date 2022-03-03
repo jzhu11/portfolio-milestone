@@ -1,4 +1,4 @@
-# An analysis of “The Legend of Zelda: Breath of the Wild” Compendium
+# An Analysis of “The Legend of Zelda: Breath of the Wild” Compendium
 
 
 This is also referenced in BOTW Assignment
