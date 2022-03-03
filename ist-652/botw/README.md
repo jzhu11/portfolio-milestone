@@ -6,13 +6,16 @@ AKA BOTW Assignment
 This code collects semi-structured data from an API in a .JSON format and uses it for analysis
 
 
-Replication Steps
-This is a very simple one, just ensure the following Python packages are installed on your machine before running the code. It should execute without any issues
+# Replication Steps
+This is a very simple one, just ensure the following Python packages are installed on your machine before running the code:
 
-pandas
+**pandas**
 
-json
+**json**
 
-urllib
+**urllib**
 
-tabulate
+**tabulate**
+
+
+The code should now execute without any issues.
