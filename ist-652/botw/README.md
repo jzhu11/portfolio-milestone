@@ -1,9 +1,9 @@
 # An Analysis of “The Legend of Zelda: Breath of the Wild” Compendium
 
 
-This is also referenced in BOTW Assignment in the report
+This is also referenced as BOTW Assignment in the report
 
-This code collects semi-structured data from an API in a .JSON format and uses it for analysis
+This assignment collects semi-structured data from an API in a .JSON format and uses it for analysis.
 
 
 # Replication Steps
