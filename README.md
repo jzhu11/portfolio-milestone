@@ -22,3 +22,5 @@ Some requirements that are met may not contain code at all, but it'll still cont
       /ist-707 - Data Analytics
    
       /ist-718 - Big Data Analytics
+      
+      /mbc-638 - Data Analysis and Decision Making
