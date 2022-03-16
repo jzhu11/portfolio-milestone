@@ -13,12 +13,12 @@ Some requirements that are met may not contain code at all, but it'll still cont
 /portfolio-milestone/projects
    
    
-   /ist-618 - Information Policy
+      /ist-618 - Information Policy
    
-   /ist-652 - Scripting for Data Analysis
+      /ist-652 - Scripting for Data Analysis
    
-   /ist-664 - Natural Langauge Processing
+      /ist-664 - Natural Langauge Processing
    
-   /ist-707 - Data Analytics
+      /ist-707 - Data Analytics
    
-   /ist-718 - Big Data Analytics
+      /ist-718 - Big Data Analytics
