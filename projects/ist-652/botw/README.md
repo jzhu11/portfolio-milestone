@@ -7,7 +7,7 @@ This assignment collects semi-structured data from an API in a .JSON format and 
 
 
 # Replication Steps
-This is a very simple one, just ensure the following Python packages are installed on your machine before running the code:
+Make sure you are using Python 3 for this and ensure the following Python packages are installed on your machine before running the code (BOTW Assignment.py):
 
 **pandas**
 
