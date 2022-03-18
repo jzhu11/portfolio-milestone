@@ -15,7 +15,7 @@ Before running the code, ensure you have all the following modules installed:
 
 **scipy**
 
-**statsmodels
+**statsmodels**
 
 **matplotlib**
 
