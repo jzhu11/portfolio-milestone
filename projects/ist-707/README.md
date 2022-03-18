@@ -2,7 +2,7 @@
 
 This project helped me define and apply a broad range of data science strategies from identifying a problem to finding a solution for it.
 
-# Replicat Steps
+# Replication Steps
 
 This one would be quite simple since the main project was done via RWeka. 
 
