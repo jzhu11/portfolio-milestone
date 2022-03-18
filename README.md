@@ -8,6 +8,9 @@ Each sub repo will contain the ways to replicate the results if possible.
 
 
 Some requirements that are met may not contain code at all, but it'll still contain the submitted files such as an essay on understanding the ethical dimension of data science.
+# Presentation Video
+
+Link to presentation video: https://www.youtube.com/watch?v=uYgpghwUsy0
 
 # Table of Contents
 /portfolio-milestone/projects
