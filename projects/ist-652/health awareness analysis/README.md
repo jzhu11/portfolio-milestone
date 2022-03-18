@@ -4,6 +4,7 @@ This project collects both structured and semi-structured data via HTML from the
 
 
 # Replication Steps
+Have Python 3 installed.
 
 To successfully replicate the results here please download all the files and ensure that the files are on the same PATH as the code itself to mitigate any issues of opening it up.
 
